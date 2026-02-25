@@ -1,6 +1,6 @@
 # Meisam Ghasemzade
 ## Software Engineering
-<img align='left' width='240' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY215eXhlY2c3NTh1aDRjbHRwNWJ1eHdmNm41cDA5dzgzbGw2bmVmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m9msgf2h71sG7Bv4Iw/giphy.gif'> <samp> <br>
+<img align='left' width='240' src='https://camo.githubusercontent.com/603b097271fe31d7d8fc753f7bd7b70d34b3138d452247faaa1b9f510b0a24dc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966'> <samp> <br>
   👨🏻‍💻 Last seen: I'm Learn new Skills<br>
       Based: Urmia - IR<br>
       </samp>
