@@ -6,7 +6,6 @@
       </samp>
 
 # My Skills :
-<samp>
 Html,
 Css,
 Wordpress,
@@ -14,7 +13,6 @@ N8N,
 Dart,
 Flutter,
 Elementor,
-</samp>
 <br>
 
  I like Programming :) 
