@@ -1,9 +1,9 @@
 # Meisam Ghasemzade
 ## Software Engineering
-<img align='left' width='240' src='https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif'>  <br>
+<img align='left' width='240' src='[https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB1NGlnN3YwNWppcDBkbzY0MXl0NWFrbGw0aTJzbHVxZGFsODNvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)'> <samp> <br>
   👨🏻‍💻 Last seen: I'm Learn new Skills<br>
       Based: Urmia - IR<br>
-      
+      </samp>
 
 # My Skills :
 <samp>
