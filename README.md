@@ -5,7 +5,7 @@
       Based: Urmia - IR 
       </samp>
 
-## My Skills :
+My Skills :
 <samp>
 Html,
 Css,
